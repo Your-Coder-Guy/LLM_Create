@@ -3,3 +3,8 @@
 *.md
 # Ignore virtual environment directory
 venv/
+
+# Ignore directories
+Work/
+build/
+dist/
