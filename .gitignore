@@ -1,3 +1,5 @@
 # Not Code files
 *.docx
 *.md
+# Ignore virtual environment directory
+venv/
